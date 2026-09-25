@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.clucy.cn/sitemap.xml
